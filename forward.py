@@ -1,11 +1,3 @@
-"""
-Forward Chaining Implementation untuk Perhitungan Warisan Islam
-Menggunakan sistem berbasis aturan IF-THEN berdasarkan Al-Quran dan Hadits
-
-Author: [Your Name]
-Referensi: Al-Quran Surah An-Nisa ayat 11-12, Hadits Nabi SAW
-"""
-
 from fractions import Fraction
 
 class ForwardChaining:

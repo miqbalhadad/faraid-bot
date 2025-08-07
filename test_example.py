@@ -1,11 +1,3 @@
-"""
-Test Cases untuk Chatbot Telegram Warisan Islam
-Contoh pengujian untuk Forward Chaining dan Dempster-Shafer Theory
-
-Author: [Your Name]
-Untuk keperluan validasi skripsi
-"""
-
 import unittest
 from fractions import Fraction
 from forward import ForwardChaining
